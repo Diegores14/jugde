@@ -1,0 +1,30 @@
+{
+  "name": "jugde",
+  "version": "1.0.0",
+  "description": "Is a program that help to training for coci or others contest, this is for judge problems",
+  "main": "judge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegores14/jugde.git"
+  },
+  "keywords": [
+    "jugde",
+    "programming",
+    "competitive"
+  ],
+  "author": "Diego Alejandro Restrepo Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diegores14/jugde/issues"
+  },
+  "homepage": "https://github.com/Diegores14/jugde#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  },
+  "bin": {
+    "notebook-generator": "./bin/notebookgen"
+  }
+}
